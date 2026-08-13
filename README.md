@@ -3,7 +3,10 @@
 My solutions for the IOAI 2026 tasks. Note that these are upsolves -- I didn't achieve such high scores in the actual competition.
 
 Scoring formula:
-$$normalized\_score = \frac{score - baseline\_score}{\max(0.9 \times SC\_score,\ top\_contestant\_score) - baseline\_score}$$
+
+```
+normalized_score = (score - baseline_score) / (max(0.9 × SC_score, top_contestant_score) - baseline_score)
+```
 
 where SC_score is the official solution score of the IOAI Scientific Committee.
 
