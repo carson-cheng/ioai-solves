@@ -17,3 +17,16 @@ where SC_score is the official solution score of the IOAI Scientific Committee.
 | 6    | IOAI Field | todo | 32.7571 | 97.7604 | 66.4630 | -- |
 
 [^1]: The baseline posted in the IOAI official GitHub repository uses prefix.json in each split and achieves 69.1459 score. The baseline score here is that of the baseline shown to contestants during the on-site contest, which did not use prefix.json.
+
+## Task Authors
+
+For full credits, see https://github.com/IOAI-official/IOAI-2026/tree/main/Individual-Contest
+
+| Task | Proposed by | Developed by |
+|------|-------------|--------------|
+| Find the Order | Nurdaulet Akhanov | Nurdaulet Akhanov |
+| Robot Chasing | Salem Lahlou | Anuar Aimoldin · Kamalkhan Artykbayev · Nurdaulet Akhanov |
+| Potato | Kirill Fedyanin | Ayana Mussabayeva · Kirill Fedyanin |
+| Double Agent Dilemma | Tao Dajiang | Tao Dajiang · Zhuldyz-Zhan Sagimbayev · Kamalkhan Artykbayev |
+| Ghost of the Machine | Alexander D'yakonov · Nurdaulet Akhanov | Nurdaulet Akhanov · Kirill Fedyanin |
+| IOAI Field | Evgenii Tsymbalov | Evgenii Tsymbalov · Ekaterina Fadeeva · Daniil Kazantsev · Maiya Goloburda · Magauiya Zhussip |
