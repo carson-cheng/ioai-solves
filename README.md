@@ -12,7 +12,7 @@ where SC_score is the official solution score of the IOAI Scientific Committee.
 
 | Task | Name | Score | Baseline | Top contestant Score | 90% of SC Score | Normalized Score |
 |------|------|-------|----------|---------------|-----------------|------------------|
-| 1    | Find the Order | 71.1254 | 49.0477[^1] | 71.6573 | 73.1604 | 91.56% |
+| 1    | Find the Order | 71.6948 | 49.0477[^1] | 71.6573 | 73.1604 | 93.92% |
 | 2    | Robot Chasing | 52.7222 | 20.5833 | 57.9444 | 63.9250 | 74.15% |
 | 3    | Potato | 47.0200 | 17.0800 | 47.4200 | 52.5600 | 84.38% |
 | 4    | Double Agent Dilemma | 94.0201 | 0.0000 | 97.6427 | 87.2540 | 96.28% |
