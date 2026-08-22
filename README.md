@@ -17,7 +17,7 @@ where SC_score is the official solution score of the IOAI Scientific Committee.
 | 3    | Potato | 47.0200 | 17.0800 | 47.4200 | 52.5600 | 84.38% |
 | 4    | Double Agent Dilemma | 94.0201 | 0.0000 | 97.6427 | 87.2540 | 96.28% |
 | 5    | Ghost of Machine | 85.1386 | 32.6772 | 93.6104 | 85.0197 | 86.09% |
-| 6    | IOAI Field | todo | 32.7571 | 97.7604 | 66.4630 | -- |
+| 6    | IOAI Field | 64.7382 | 32.7571 | 97.7604 | 66.4630 | 49.19% |
 
 [^1]: The baseline posted in the IOAI official GitHub repository uses prefix.json in each split and achieves 69.1459 score. The baseline score here is that of the baseline shown to contestants during the on-site contest, which did not use prefix.json.
 
