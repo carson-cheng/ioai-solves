@@ -19,7 +19,7 @@ where SC_score is the official solution score of the IOAI Scientific Committee.
 | 5    | Ghost of Machine | 85.1386 | 32.6772 | 93.6104 | 85.0197 | 86.09% |
 | 6    | IOAI Field | 64.7382 | 32.7571 | 97.7604 | 66.4630 | 49.19% |
 
-[^1]: The baseline posted in the IOAI official GitHub repository uses prefix.json in each split and achieves 69.1459 score. The baseline score here is that of the baseline shown to contestants during the on-site contest, which did not use prefix.json.
+[^1]: The baseline originally posted in the IOAI official GitHub repository (now reverted back to the one contestants saw in the contest in the official repo) uses prefix.json in each split and achieves 69.1459 score. The baseline score here is that of the baseline shown to contestants during the on-site contest, which did not use prefix.json.
 
 ## Task Authors
 
